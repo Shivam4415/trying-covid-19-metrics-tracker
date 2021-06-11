@@ -1,0 +1,14 @@
+1. First open terminal and write `npi`.
+2. `npm run start`
+3. Open new terminal : `npx react-native run android`
+4. If you are getting an error something like this :: 
+            a. Create a new file `local.properties` within folder /android and paste this line of code
+            b. sdk.dir=/Users/shivamgupta/Library/Android/sdk
+            c. For you this directory may differ, so better go to 
+                - Android studio
+                - Go to SDK Manager
+                - ANDROID SDK will open from left sidebar.
+                - Copy the `Android SDK Location` and paste your directory in here.
+
+
+

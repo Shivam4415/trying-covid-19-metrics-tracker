@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_covid19MetricsTracker_covid19MetricsTrackerTests : NSObject
+@end
+@implementation PodsDummy_Pods_covid19MetricsTracker_covid19MetricsTrackerTests
+@end

@@ -1,0 +1,6 @@
+module Pods_covid19MetricsTracker {
+  umbrella header "Pods-covid19MetricsTracker-umbrella.h"
+
+  export *
+  module * { export * }
+}

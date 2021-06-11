@@ -1,0 +1,14 @@
+com/covid19metricstracker/BuildConfig.java
+ com.covid19metricstracker.BuildConfig
+com/covid19metricstracker/ReactNativeFlipper.java
+ com.covid19metricstracker.ReactNativeFlipper
+ com.covid19metricstracker.ReactNativeFlipper$1
+ com.covid19metricstracker.ReactNativeFlipper$2
+ com.covid19metricstracker.ReactNativeFlipper$2$1
+com/covid19metricstracker/MainApplication.java
+ com.covid19metricstracker.MainApplication
+ com.covid19metricstracker.MainApplication$1
+com/covid19metricstracker/MainActivity.java
+ com.covid19metricstracker.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
